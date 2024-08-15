@@ -1,0 +1,18 @@
+m.0dqjh24	m.0fypfky	m.04j7n1s	m.0zj802g
+m.02j71	m.0fypfkw	music/release/region
+m.0f255	m.0fypfkw	music/release/format
+m.0fypflm	m.0kpv11	common/topic/notable_types
+m.0fypfky	m.0kpv11	common/topic/notable_types
+m.02k9yd8	m.04j7n1s	type/type/properties
+m.0fypfkw	m.0fypfky	music/recording/releases
+m.02nrqx2	m.0dqjh24	common/topic/notable_types
+m.0fypfkw	m.0fypflm	music/recording/releases
+m.0fypfkw	m.0mt8sy4	music/release_track/release
+m.0frxj3k	m.0fypfky	music/recording/artist
+m.01qvfr7	m.0dqjh24	music/artist/album
+m.0fypfky	m.0mt8sy4	music/release_track/recording
+m.01qvfr7	m.02lx2r	music/album_release_type/albums
+m.0fypfkw	m.0mt8tfn	music/release/track_list
+m.0fypflm	m.0mt8tfn	music/recording/tracks
+m.074ft	m.0zj802g	music/compositional_form/compositions
+m.0frxj3k	m.0fypflm	music/recording/artist
